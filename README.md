@@ -47,8 +47,16 @@ Here are a few key insights uncovered through the dashboard:
 ---
 
 ## 📸 Screenshots
+**Main Dashboard (click to drill through):**
 
-> _(Add screenshots here once the repository is created. Include main dashboard, drill-through page, and sentiment visual.)_
+![Dashboard](Dashboard.png)
+
+**Drill-Through Page:**
+
+![Drill-Through Page](DEtails_drillthrough.png)
+
+**Sentimental-Analysis:**
+![SEntimental-Analysis](Sentimental_Analysis.png)
 
 ---
 
