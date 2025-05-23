@@ -41,9 +41,12 @@ Here are a few key insights uncovered through the dashboard:
 
 ## 📁 File Structure
 
-- `Insurance.pbix` – Complete Power BI report file with visuals, dataset, and modeling.
+- `Insurance.pbix` – Complete Power BI report file with visuals, datasets and modeling.
+- `InsuranceData.csv` - Insurance data for analysis
+- `Insurance+Customer+Feedback.xlsx` - Data with feedback for sentimental Analysis
 - Drill-through pages are embedded for customer-level analysis.
 - Sentiment classification is built using rule-based text fields.
+- Screenshots of Dashboard, Drillthrough Page and Sentiment Analysis
 ---
 
 ## 📸 Screenshots
