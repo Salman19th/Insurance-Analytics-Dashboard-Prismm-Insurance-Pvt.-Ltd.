@@ -56,7 +56,7 @@ Here are a few key insights uncovered through the dashboard:
 ![Drill-Through Page](Details_drillthrough.png)
 
 **Sentimental-Analysis:**
-![SEntimental-Analysis](Sentimental Analysis.png)
+![SEntimental-Analysis](Sentimental_Analysis.png)
 
 ---
 
